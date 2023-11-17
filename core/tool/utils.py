@@ -2,7 +2,7 @@ import yaml
 import os
 import json
 
-from model.dataModel import *
+from core.model.dataModel import *
 from typing import Any
 from ipaddress import IPv4Address
 from colorama import Fore
