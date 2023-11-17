@@ -1,0 +1,14 @@
+peers:
+  - peer: 0
+    host: 127.0.0.1
+    port: 8080
+  - peer: 1
+    host: 127.0.0.1
+    port: 8081
+packets:
+  - packet: 1
+    peer: 0
+    index: 0
+    timestamp: 1699633660.604847000
+    data: !!binary |
+      test
